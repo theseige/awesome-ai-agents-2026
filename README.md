@@ -579,7 +579,7 @@
 ## 📚 Learning Resources
 
 ### Courses and Tutorials
-- [Apex AI Academy](https://apexai.academy/) - Courses that teach AI agents how to teach their humans AI, with free lessons and an MCP server
+- [Apex AI Academy](https://apexai.academy/) - Co-Learn with your Agent: free AI lessons with Human and Agent views and an MCP server. You stay in charge
 - [DeepLearning.AI Agent Courses](https://www.deeplearning.ai/) - Free courses with LangChain, CrewAI, AutoGen
 - [HuggingFace Agents Course](https://huggingface.co/learn/agents-course) - Open-source agent dev course
 - [LangGraph Academy](https://academy.langchain.com/) - Official LangGraph path
